@@ -1,4 +1,6 @@
 {
+  "endOfLine": "crlf",
   "singleQuote": true,
-  "trailingComma": "all"
+  "trailingComma": "all",
+  "printWidth": 80
 }
